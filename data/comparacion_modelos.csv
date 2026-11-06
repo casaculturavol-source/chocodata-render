@@ -1,0 +1,5 @@
+﻿anio_prueba,modelo,observaciones,municipios,exactitud,f1_macro,exactitud_equilibrada,mae_visitantes
+2024,Random Forest,86,8,0.3953,0.3942,0.4252,16.642
+2024,Mediana estacional,86,8,0.4419,0.438,0.462,13.324
+2025,Random Forest,84,8,0.3333,0.3137,0.3704,24.819
+2025,Mediana estacional,84,8,0.3929,0.373,0.422,21.067

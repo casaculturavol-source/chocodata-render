@@ -1,0 +1,465 @@
+{
+  "version": "v1.2",
+  "comparacion": {
+    "registros_prueba": 4,
+    "periodos_reservados": [
+      "2026-04"
+    ],
+    "mae_activo": 87.871,
+    "mae_candidato": 31.692
+  },
+  "decision": "Pendiente de aprobación manual",
+  "datos_nuevos": 16,
+  "nuevo_eda": {
+    "filas": 16,
+    "columnas": 4,
+    "tipos": {
+      "municipio": "categorica",
+      "anio": "numerica",
+      "mes_num": "numerica",
+      "visitantes": "numerica"
+    },
+    "faltantes": [
+      {
+        "variable": "municipio",
+        "faltantes": 0,
+        "porcentaje": 0.0
+      },
+      {
+        "variable": "anio",
+        "faltantes": 0,
+        "porcentaje": 0.0
+      },
+      {
+        "variable": "mes_num",
+        "faltantes": 0,
+        "porcentaje": 0.0
+      },
+      {
+        "variable": "visitantes",
+        "faltantes": 0,
+        "porcentaje": 0.0
+      }
+    ],
+    "duplicados": 0,
+    "estadisticas_numericas": {
+      "anio": {
+        "media": 2026.0,
+        "mediana": 2026.0,
+        "min": 2026.0,
+        "max": 2026.0,
+        "desviacion": 0.0
+      },
+      "mes_num": {
+        "media": 2.5,
+        "mediana": 2.5,
+        "min": 1.0,
+        "max": 4.0,
+        "desviacion": 1.118
+      },
+      "visitantes": {
+        "media": 81.25,
+        "mediana": 65.0,
+        "min": 43.0,
+        "max": 152.0,
+        "desviacion": 39.414
+      }
+    },
+    "frecuencias_categoricas": {
+      "municipio": [
+        {
+          "categoria": "ACANDI",
+          "cantidad": 4,
+          "porcentaje": 25.0
+        },
+        {
+          "categoria": "QUIBDO",
+          "cantidad": 4,
+          "porcentaje": 25.0
+        },
+        {
+          "categoria": "NUQUI",
+          "cantidad": 4,
+          "porcentaje": 25.0
+        },
+        {
+          "categoria": "ISTMINA",
+          "cantidad": 4,
+          "porcentaje": 25.0
+        }
+      ]
+    },
+    "valores_atipicos": {
+      "anio": {
+        "criterio": "RIQ=0, no se aplica regla",
+        "cantidad": 0
+      },
+      "mes_num": {
+        "criterio": "Tukey 1.5 × RIQ",
+        "cantidad": 0
+      },
+      "visitantes": {
+        "criterio": "Tukey 1.5 × RIQ",
+        "cantidad": 0
+      }
+    },
+    "relaciones": [
+      {
+        "variables": [
+          "mes_num",
+          "visitantes"
+        ],
+        "correlacion_pearson": 0.085
+      }
+    ],
+    "graficos": [
+      {
+        "variable": "municipio",
+        "tipo": "barras",
+        "labels": [
+          "ACANDI",
+          "QUIBDO",
+          "NUQUI",
+          "ISTMINA"
+        ],
+        "values": [
+          4,
+          4,
+          4,
+          4
+        ]
+      },
+      {
+        "variable": "anio",
+        "tipo": "histograma",
+        "labels": [
+          "2026.0–2027.0"
+        ],
+        "values": [
+          16
+        ]
+      },
+      {
+        "variable": "mes_num",
+        "tipo": "histograma",
+        "labels": [
+          "1.0–1.8",
+          "1.8–2.5",
+          "2.5–3.2",
+          "3.2–4.0"
+        ],
+        "values": [
+          4,
+          4,
+          4,
+          4
+        ]
+      },
+      {
+        "variable": "visitantes",
+        "tipo": "histograma",
+        "labels": [
+          "43.0–70.2",
+          "70.2–97.5",
+          "97.5–124.8",
+          "124.8–152.0"
+        ],
+        "values": [
+          9,
+          3,
+          0,
+          4
+        ]
+      }
+    ],
+    "observacion": "Correlación no implica causalidad. Posibles atípicos se detectan con criterio de Tukey (1,5 × RIQ)."
+  },
+  "conjunto_actualizado_eda": {
+    "filas": 682,
+    "columnas": 4,
+    "tipos": {
+      "municipio": "categorica",
+      "anio": "numerica",
+      "mes_num": "numerica",
+      "visitantes": "numerica"
+    },
+    "faltantes": [
+      {
+        "variable": "municipio",
+        "faltantes": 0,
+        "porcentaje": 0.0
+      },
+      {
+        "variable": "anio",
+        "faltantes": 0,
+        "porcentaje": 0.0
+      },
+      {
+        "variable": "mes_num",
+        "faltantes": 0,
+        "porcentaje": 0.0
+      },
+      {
+        "variable": "visitantes",
+        "faltantes": 0,
+        "porcentaje": 0.0
+      }
+    ],
+    "duplicados": 0,
+    "estadisticas_numericas": {
+      "anio": {
+        "media": 2022.95,
+        "mediana": 2023.0,
+        "min": 2020.0,
+        "max": 2026.0,
+        "desviacion": 1.572
+      },
+      "mes_num": {
+        "media": 6.553,
+        "mediana": 7.0,
+        "min": 1.0,
+        "max": 12.0,
+        "desviacion": 3.611
+      },
+      "visitantes": {
+        "media": 19.122,
+        "mediana": 3.0,
+        "min": 1.0,
+        "max": 279.0,
+        "desviacion": 48.412
+      }
+    },
+    "frecuencias_categoricas": {
+      "municipio": [
+        {
+          "categoria": "QUIBDO",
+          "cantidad": 71,
+          "porcentaje": 10.41
+        },
+        {
+          "categoria": "ACANDI",
+          "cantidad": 68,
+          "porcentaje": 9.97
+        },
+        {
+          "categoria": "BAHIA SOLANO",
+          "cantidad": 66,
+          "porcentaje": 9.68
+        },
+        {
+          "categoria": "EL CARMEN DE ATRATO",
+          "cantidad": 63,
+          "porcentaje": 9.24
+        },
+        {
+          "categoria": "NUQUI",
+          "cantidad": 63,
+          "porcentaje": 9.24
+        },
+        {
+          "categoria": "ISTMINA",
+          "cantidad": 54,
+          "porcentaje": 7.92
+        },
+        {
+          "categoria": "JURADO",
+          "cantidad": 49,
+          "porcentaje": 7.18
+        },
+        {
+          "categoria": "ATRATO",
+          "cantidad": 35,
+          "porcentaje": 5.13
+        },
+        {
+          "categoria": "BAGADO",
+          "cantidad": 27,
+          "porcentaje": 3.96
+        },
+        {
+          "categoria": "CARMEN DEL DARIEN",
+          "cantidad": 26,
+          "porcentaje": 3.81
+        },
+        {
+          "categoria": "CONDOTO",
+          "cantidad": 25,
+          "porcentaje": 3.67
+        },
+        {
+          "categoria": "TADO",
+          "cantidad": 18,
+          "porcentaje": 2.64
+        }
+      ]
+    },
+    "valores_atipicos": {
+      "anio": {
+        "criterio": "Tukey 1.5 × RIQ",
+        "cantidad": 0
+      },
+      "mes_num": {
+        "criterio": "Tukey 1.5 × RIQ",
+        "cantidad": 0
+      },
+      "visitantes": {
+        "criterio": "Tukey 1.5 × RIQ",
+        "cantidad": 84
+      }
+    },
+    "relaciones": [
+      {
+        "variables": [
+          "anio",
+          "visitantes"
+        ],
+        "correlacion_pearson": 0.139
+      },
+      {
+        "variables": [
+          "anio",
+          "mes_num"
+        ],
+        "correlacion_pearson": -0.066
+      },
+      {
+        "variables": [
+          "mes_num",
+          "visitantes"
+        ],
+        "correlacion_pearson": -0.035
+      }
+    ],
+    "graficos": [
+      {
+        "variable": "municipio",
+        "tipo": "barras",
+        "labels": [
+          "QUIBDO",
+          "ACANDI",
+          "BAHIA SOLANO",
+          "EL CARMEN DE ATRATO",
+          "NUQUI",
+          "ISTMINA",
+          "JURADO",
+          "ATRATO",
+          "BAGADO",
+          "CARMEN DEL DARIEN",
+          "CONDOTO",
+          "TADO"
+        ],
+        "values": [
+          71,
+          68,
+          66,
+          63,
+          63,
+          54,
+          49,
+          35,
+          27,
+          26,
+          25,
+          18
+        ]
+      },
+      {
+        "variable": "anio",
+        "tipo": "histograma",
+        "labels": [
+          "2020.0–2020.5",
+          "2020.5–2021.0",
+          "2021.0–2021.5",
+          "2021.5–2022.0",
+          "2022.0–2022.5",
+          "2022.5–2023.0",
+          "2023.0–2023.5",
+          "2023.5–2024.0",
+          "2024.0–2024.5",
+          "2024.5–2025.0",
+          "2025.0–2025.5",
+          "2025.5–2026.0"
+        ],
+        "values": [
+          44,
+          0,
+          100,
+          0,
+          128,
+          0,
+          136,
+          0,
+          138,
+          0,
+          120,
+          16
+        ]
+      },
+      {
+        "variable": "mes_num",
+        "tipo": "histograma",
+        "labels": [
+          "1.0–1.9",
+          "1.9–2.8",
+          "2.8–3.8",
+          "3.8–4.7",
+          "4.7–5.6",
+          "5.6–6.5",
+          "6.5–7.4",
+          "7.4–8.3",
+          "8.3–9.2",
+          "9.2–10.2",
+          "10.2–11.1",
+          "11.1–12.0"
+        ],
+        "values": [
+          68,
+          55,
+          66,
+          49,
+          44,
+          48,
+          53,
+          60,
+          51,
+          57,
+          63,
+          68
+        ]
+      },
+      {
+        "variable": "visitantes",
+        "tipo": "histograma",
+        "labels": [
+          "1.0–24.2",
+          "24.2–47.3",
+          "47.3–70.5",
+          "70.5–93.7",
+          "93.7–116.8",
+          "116.8–140.0",
+          "140.0–163.2",
+          "163.2–186.3",
+          "186.3–209.5",
+          "209.5–232.7",
+          "232.7–255.8",
+          "255.8–279.0"
+        ],
+        "values": [
+          600,
+          23,
+          9,
+          5,
+          5,
+          7,
+          6,
+          4,
+          6,
+          5,
+          3,
+          9
+        ]
+      }
+    ],
+    "observacion": "Correlación no implica causalidad. Posibles atípicos se detectan con criterio de Tukey (1,5 × RIQ)."
+  }
+}

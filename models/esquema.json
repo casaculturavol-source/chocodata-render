@@ -1,0 +1,45 @@
+{
+  "required_prediction": [
+    "municipio",
+    "anio",
+    "mes_num"
+  ],
+  "required_training": [
+    "visitantes"
+  ],
+  "fields": {
+    "municipio": {
+      "type": "texto",
+      "nullable": false,
+      "rule": "Municipio apto conocido en la versión activa"
+    },
+    "anio": {
+      "type": "entero",
+      "nullable": false,
+      "rule": "2020 a 2100"
+    },
+    "mes_num": {
+      "type": "entero",
+      "nullable": false,
+      "rule": "1 a 12"
+    },
+    "visitantes": {
+      "type": "entero",
+      "nullable": false,
+      "rule": "Entero >= 0 (solo para entrenamiento)"
+    }
+  },
+  "target": {
+    "name": "visitantes",
+    "type": "entero"
+  },
+  "exclude": [
+    "registro",
+    "fecha",
+    "visitantes"
+  ],
+  "unknown_categories": "Bloqueo de municipios sin modelo apto para predecir",
+  "min_months": 24,
+  "min_years": 3,
+  "model_version": "v1.0"
+}

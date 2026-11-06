@@ -1,0 +1,361 @@
+﻿municipio,anio,mes,mes_nombre,visitantes_estimados,afluencia_prevista,estado,metodo,referencia_estacional,umbral_baja_media,umbral_media_alta
+ACANDI,2026,1,Enero,155.7,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,108.75,75.99999999999989,193.99999999999994
+ACANDI,2026,2,Febrero,55.65,Baja,Apto: modelo de aprendizaje automático orientativo,Random Forest,63.0,75.99999999999989,193.99999999999994
+ACANDI,2026,3,Marzo,119.98,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,117.38,75.99999999999989,193.99999999999994
+ACANDI,2026,4,Abril,126.58,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,134.86,75.99999999999989,193.99999999999994
+ACANDI,2026,5,Mayo,201.79,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,180.17,75.99999999999989,193.99999999999994
+ACANDI,2026,6,Junio,172.38,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,122.71,75.99999999999989,193.99999999999994
+ACANDI,2026,7,Julio,153.22,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,120.57,75.99999999999989,193.99999999999994
+ACANDI,2026,8,Agosto,189.37,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,118.43,75.99999999999989,193.99999999999994
+ACANDI,2026,9,Septiembre,176.38,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,102.71,75.99999999999989,193.99999999999994
+ACANDI,2026,10,Octubre,223.06,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,164.14,75.99999999999989,193.99999999999994
+ACANDI,2026,11,Noviembre,219.07,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,148.5,75.99999999999989,193.99999999999994
+ACANDI,2026,12,Diciembre,220.97,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,159.38,75.99999999999989,193.99999999999994
+ALTO BAUDO,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+ALTO BAUDO,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+ALTO BAUDO,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+ALTO BAUDO,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+ALTO BAUDO,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+ALTO BAUDO,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+ALTO BAUDO,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+ALTO BAUDO,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+ALTO BAUDO,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+ALTO BAUDO,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+ALTO BAUDO,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+ALTO BAUDO,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+ATRATO,2026,1,Enero,1.29,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.0,1.0,2.0
+ATRATO,2026,2,Febrero,1.58,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.75,1.0,2.0
+ATRATO,2026,3,Marzo,1.29,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.0,1.0,2.0
+ATRATO,2026,4,Abril,1.31,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.25,1.0,2.0
+ATRATO,2026,5,Mayo,1.27,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.6,1.0,2.0
+ATRATO,2026,6,Junio,1.27,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.6,1.0,2.0
+ATRATO,2026,7,Julio,1.23,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.25,1.0,2.0
+ATRATO,2026,8,Agosto,1.15,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.0,1.0,2.0
+ATRATO,2026,9,Septiembre,1.89,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.0,1.0,2.0
+ATRATO,2026,10,Octubre,1.18,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.0,1.0,2.0
+ATRATO,2026,11,Noviembre,1.47,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.33,1.0,2.0
+ATRATO,2026,12,Diciembre,1.48,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.0,1.0,2.0
+BAGADO,2026,1,Enero,1.85,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.25,1.0,2.0
+BAGADO,2026,2,Febrero,1.31,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.67,1.0,2.0
+BAGADO,2026,3,Marzo,1.22,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.75,1.0,2.0
+BAGADO,2026,4,Abril,1.22,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.0,1.0,2.0
+BAGADO,2026,5,Mayo,1.29,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.75,1.0,2.0
+BAGADO,2026,6,Junio,1.28,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.0,1.0,2.0
+BAGADO,2026,7,Julio,1.32,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.25,1.0,2.0
+BAGADO,2026,8,Agosto,1.16,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.4,1.0,2.0
+BAGADO,2026,9,Septiembre,2.09,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.0,1.0,2.0
+BAGADO,2026,10,Octubre,1.27,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.0,1.0,2.0
+BAGADO,2026,11,Noviembre,1.49,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.0,1.0,2.0
+BAGADO,2026,12,Diciembre,1.48,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.33,1.0,2.0
+BAHIA SOLANO,2026,1,Enero,10.7,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,13.38,9.0,18.33333333333332
+BAHIA SOLANO,2026,2,Febrero,6.87,Baja,Apto: modelo de aprendizaje automático orientativo,Random Forest,8.5,9.0,18.33333333333332
+BAHIA SOLANO,2026,3,Marzo,10.93,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,12.62,9.0,18.33333333333332
+BAHIA SOLANO,2026,4,Abril,24.41,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,18.0,9.0,18.33333333333332
+BAHIA SOLANO,2026,5,Mayo,23.94,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,20.14,9.0,18.33333333333332
+BAHIA SOLANO,2026,6,Junio,9.89,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,8.0,9.0,18.33333333333332
+BAHIA SOLANO,2026,7,Julio,12.85,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,18.0,9.0,18.33333333333332
+BAHIA SOLANO,2026,8,Agosto,20.34,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,15.86,9.0,18.33333333333332
+BAHIA SOLANO,2026,9,Septiembre,13.5,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,17.29,9.0,18.33333333333332
+BAHIA SOLANO,2026,10,Octubre,9.57,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,14.5,9.0,18.33333333333332
+BAHIA SOLANO,2026,11,Noviembre,7.16,Baja,Apto: modelo de aprendizaje automático orientativo,Random Forest,7.38,9.0,18.33333333333332
+BAHIA SOLANO,2026,12,Diciembre,7.86,Baja,Apto: modelo de aprendizaje automático orientativo,Random Forest,8.88,9.0,18.33333333333332
+BAJO BAUDO,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BAJO BAUDO,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BAJO BAUDO,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BAJO BAUDO,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BAJO BAUDO,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BAJO BAUDO,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BAJO BAUDO,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BAJO BAUDO,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BAJO BAUDO,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BAJO BAUDO,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BAJO BAUDO,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BAJO BAUDO,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BOJAYA,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BOJAYA,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BOJAYA,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BOJAYA,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BOJAYA,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BOJAYA,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BOJAYA,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BOJAYA,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BOJAYA,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BOJAYA,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BOJAYA,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+BOJAYA,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+CARMEN DEL DARIEN,2026,1,Enero,,No estimable,Sin separación suficiente entre categorías,No estimable,,,
+CARMEN DEL DARIEN,2026,2,Febrero,,No estimable,Sin separación suficiente entre categorías,No estimable,,,
+CARMEN DEL DARIEN,2026,3,Marzo,,No estimable,Sin separación suficiente entre categorías,No estimable,,,
+CARMEN DEL DARIEN,2026,4,Abril,,No estimable,Sin separación suficiente entre categorías,No estimable,,,
+CARMEN DEL DARIEN,2026,5,Mayo,,No estimable,Sin separación suficiente entre categorías,No estimable,,,
+CARMEN DEL DARIEN,2026,6,Junio,,No estimable,Sin separación suficiente entre categorías,No estimable,,,
+CARMEN DEL DARIEN,2026,7,Julio,,No estimable,Sin separación suficiente entre categorías,No estimable,,,
+CARMEN DEL DARIEN,2026,8,Agosto,,No estimable,Sin separación suficiente entre categorías,No estimable,,,
+CARMEN DEL DARIEN,2026,9,Septiembre,,No estimable,Sin separación suficiente entre categorías,No estimable,,,
+CARMEN DEL DARIEN,2026,10,Octubre,,No estimable,Sin separación suficiente entre categorías,No estimable,,,
+CARMEN DEL DARIEN,2026,11,Noviembre,,No estimable,Sin separación suficiente entre categorías,No estimable,,,
+CARMEN DEL DARIEN,2026,12,Diciembre,,No estimable,Sin separación suficiente entre categorías,No estimable,,,
+CERTEGUI,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+CERTEGUI,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+CERTEGUI,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+CERTEGUI,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+CERTEGUI,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+CERTEGUI,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+CERTEGUI,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+CERTEGUI,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+CERTEGUI,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+CERTEGUI,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+CERTEGUI,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+CERTEGUI,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+CONDOTO,2026,1,Enero,1.42,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.0,1.0,1.9999999999999964
+CONDOTO,2026,2,Febrero,1.39,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.0,1.0,1.9999999999999964
+CONDOTO,2026,3,Marzo,1.37,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.0,1.0,1.9999999999999964
+CONDOTO,2026,4,Abril,1.36,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.0,1.0,1.9999999999999964
+CONDOTO,2026,5,Mayo,1.28,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.0,1.0,1.9999999999999964
+CONDOTO,2026,6,Junio,1.41,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.25,1.0,1.9999999999999964
+CONDOTO,2026,7,Julio,1.18,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.0,1.0,1.9999999999999964
+CONDOTO,2026,8,Agosto,1.38,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.5,1.0,1.9999999999999964
+CONDOTO,2026,9,Septiembre,1.75,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.0,1.0,1.9999999999999964
+CONDOTO,2026,10,Octubre,1.31,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.25,1.0,1.9999999999999964
+CONDOTO,2026,11,Noviembre,1.27,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.0,1.0,1.9999999999999964
+CONDOTO,2026,12,Diciembre,2.65,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.8,1.0,1.9999999999999964
+EL CANTON DEL SAN PABLO,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL CANTON DEL SAN PABLO,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL CANTON DEL SAN PABLO,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL CANTON DEL SAN PABLO,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL CANTON DEL SAN PABLO,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL CANTON DEL SAN PABLO,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL CANTON DEL SAN PABLO,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL CANTON DEL SAN PABLO,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL CANTON DEL SAN PABLO,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL CANTON DEL SAN PABLO,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL CANTON DEL SAN PABLO,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL CANTON DEL SAN PABLO,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL CARMEN DE ATRATO,2026,1,Enero,3.92,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,4.0,3.0,6.0
+EL CARMEN DE ATRATO,2026,2,Febrero,4.02,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,4.0,3.0,6.0
+EL CARMEN DE ATRATO,2026,3,Marzo,3.87,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,4.0,3.0,6.0
+EL CARMEN DE ATRATO,2026,4,Abril,3.31,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,4.71,3.0,6.0
+EL CARMEN DE ATRATO,2026,5,Mayo,4.02,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,4.67,3.0,6.0
+EL CARMEN DE ATRATO,2026,6,Junio,4.37,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,4.71,3.0,6.0
+EL CARMEN DE ATRATO,2026,7,Julio,4.28,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,5.43,3.0,6.0
+EL CARMEN DE ATRATO,2026,8,Agosto,3.22,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,4.71,3.0,6.0
+EL CARMEN DE ATRATO,2026,9,Septiembre,3.92,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,4.67,3.0,6.0
+EL CARMEN DE ATRATO,2026,10,Octubre,2.87,Baja,Apto: modelo de aprendizaje automático orientativo,Random Forest,3.29,3.0,6.0
+EL CARMEN DE ATRATO,2026,11,Noviembre,3.47,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,5.12,3.0,6.0
+EL CARMEN DE ATRATO,2026,12,Diciembre,3.62,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,3.62,3.0,6.0
+EL LITORAL DEL SAN JUAN,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL LITORAL DEL SAN JUAN,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL LITORAL DEL SAN JUAN,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL LITORAL DEL SAN JUAN,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL LITORAL DEL SAN JUAN,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL LITORAL DEL SAN JUAN,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL LITORAL DEL SAN JUAN,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL LITORAL DEL SAN JUAN,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL LITORAL DEL SAN JUAN,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL LITORAL DEL SAN JUAN,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL LITORAL DEL SAN JUAN,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+EL LITORAL DEL SAN JUAN,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+ISTMINA,2026,1,Enero,3.31,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,3.43,2.0,3.0
+ISTMINA,2026,2,Febrero,2.4,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.0,2.0,3.0
+ISTMINA,2026,3,Marzo,2.19,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.67,2.0,3.0
+ISTMINA,2026,4,Abril,1.61,Baja,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.5,2.0,3.0
+ISTMINA,2026,5,Mayo,3.46,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.67,2.0,3.0
+ISTMINA,2026,6,Junio,2.73,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.6,2.0,3.0
+ISTMINA,2026,7,Julio,3.45,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.6,2.0,3.0
+ISTMINA,2026,8,Agosto,2.14,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,1.33,2.0,3.0
+ISTMINA,2026,9,Septiembre,2.92,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.0,2.0,3.0
+ISTMINA,2026,10,Octubre,2.11,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.71,2.0,3.0
+ISTMINA,2026,11,Noviembre,2.32,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.0,2.0,3.0
+ISTMINA,2026,12,Diciembre,2.81,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.38,2.0,3.0
+JURADO,2026,1,Enero,8.25,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,7.14,4.0,6.999999999999993
+JURADO,2026,2,Febrero,6.47,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,4.67,4.0,6.999999999999993
+JURADO,2026,3,Marzo,5.95,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,5.38,4.0,6.999999999999993
+JURADO,2026,4,Abril,3.86,Baja,Apto: modelo de aprendizaje automático orientativo,Random Forest,3.0,4.0,6.999999999999993
+JURADO,2026,5,Mayo,6.79,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,3.67,4.0,6.999999999999993
+JURADO,2026,6,Junio,8.64,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,6.67,4.0,6.999999999999993
+JURADO,2026,7,Julio,7.1,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,3.33,4.0,6.999999999999993
+JURADO,2026,8,Agosto,13.86,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,15.67,4.0,6.999999999999993
+JURADO,2026,9,Septiembre,6.92,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,5.0,4.0,6.999999999999993
+JURADO,2026,10,Octubre,7.2,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,4.5,4.0,6.999999999999993
+JURADO,2026,11,Noviembre,8.19,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,5.0,4.0,6.999999999999993
+JURADO,2026,12,Diciembre,23.12,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,22.0,4.0,6.999999999999993
+LLORO,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+LLORO,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+LLORO,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+LLORO,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+LLORO,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+LLORO,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+LLORO,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+LLORO,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+LLORO,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+LLORO,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+LLORO,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+LLORO,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO ATRATO,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO ATRATO,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO ATRATO,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO ATRATO,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO ATRATO,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO ATRATO,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO ATRATO,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO ATRATO,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO ATRATO,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO ATRATO,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO ATRATO,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO ATRATO,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO BAUDO,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO BAUDO,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO BAUDO,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO BAUDO,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO BAUDO,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO BAUDO,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO BAUDO,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO BAUDO,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO BAUDO,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO BAUDO,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO BAUDO,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO BAUDO,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO SAN JUAN,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO SAN JUAN,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO SAN JUAN,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO SAN JUAN,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO SAN JUAN,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO SAN JUAN,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO SAN JUAN,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO SAN JUAN,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO SAN JUAN,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO SAN JUAN,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO SAN JUAN,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+MEDIO SAN JUAN,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+NOVITA,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+NOVITA,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+NOVITA,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+NOVITA,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+NOVITA,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+NOVITA,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+NOVITA,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+NOVITA,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+NOVITA,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+NOVITA,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+NOVITA,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+NOVITA,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+NUQUI,2026,1,Enero,4.45,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,4.25,4.0,8.0
+NUQUI,2026,2,Febrero,6.22,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,6.43,4.0,8.0
+NUQUI,2026,3,Marzo,5.07,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,3.5,4.0,8.0
+NUQUI,2026,4,Abril,2.66,Baja,Apto: modelo de aprendizaje automático orientativo,Random Forest,2.86,4.0,8.0
+NUQUI,2026,5,Mayo,5.96,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,6.43,4.0,8.0
+NUQUI,2026,6,Junio,5.65,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,4.75,4.0,8.0
+NUQUI,2026,7,Julio,9.22,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,8.57,4.0,8.0
+NUQUI,2026,8,Agosto,9.84,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,7.86,4.0,8.0
+NUQUI,2026,9,Septiembre,8.91,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,8.57,4.0,8.0
+NUQUI,2026,10,Octubre,6.01,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,3.57,4.0,8.0
+NUQUI,2026,11,Noviembre,5.1,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,4.67,4.0,8.0
+NUQUI,2026,12,Diciembre,4.04,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,5.38,4.0,8.0
+QUIBDO,2026,1,Enero,18.21,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,16.75,10.999999999999996,16.0
+QUIBDO,2026,2,Febrero,8.5,Baja,Apto: modelo de aprendizaje automático orientativo,Random Forest,10.38,10.999999999999996,16.0
+QUIBDO,2026,3,Marzo,10.71,Baja,Apto: modelo de aprendizaje automático orientativo,Random Forest,10.0,10.999999999999996,16.0
+QUIBDO,2026,4,Abril,9.83,Baja,Apto: modelo de aprendizaje automático orientativo,Random Forest,9.43,10.999999999999996,16.0
+QUIBDO,2026,5,Mayo,9.89,Baja,Apto: modelo de aprendizaje automático orientativo,Random Forest,8.0,10.999999999999996,16.0
+QUIBDO,2026,6,Junio,16.8,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,11.57,10.999999999999996,16.0
+QUIBDO,2026,7,Julio,17.3,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,13.0,10.999999999999996,16.0
+QUIBDO,2026,8,Agosto,11.14,Media,Apto: modelo de aprendizaje automático orientativo,Random Forest,12.25,10.999999999999996,16.0
+QUIBDO,2026,9,Septiembre,17.86,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,15.86,10.999999999999996,16.0
+QUIBDO,2026,10,Octubre,17.85,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,16.0,10.999999999999996,16.0
+QUIBDO,2026,11,Noviembre,16.56,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,13.75,10.999999999999996,16.0
+QUIBDO,2026,12,Diciembre,17.6,Alta,Apto: modelo de aprendizaje automático orientativo,Random Forest,15.25,10.999999999999996,16.0
+RIO IRO,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO IRO,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO IRO,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO IRO,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO IRO,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO IRO,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO IRO,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO IRO,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO IRO,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO IRO,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO IRO,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO IRO,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO QUITO,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO QUITO,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO QUITO,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO QUITO,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO QUITO,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO QUITO,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO QUITO,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO QUITO,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO QUITO,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO QUITO,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO QUITO,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIO QUITO,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIOSUCIO,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIOSUCIO,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIOSUCIO,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIOSUCIO,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIOSUCIO,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIOSUCIO,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIOSUCIO,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIOSUCIO,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIOSUCIO,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIOSUCIO,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIOSUCIO,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+RIOSUCIO,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SAN JOSE DEL PALMAR,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SAN JOSE DEL PALMAR,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SAN JOSE DEL PALMAR,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SAN JOSE DEL PALMAR,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SAN JOSE DEL PALMAR,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SAN JOSE DEL PALMAR,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SAN JOSE DEL PALMAR,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SAN JOSE DEL PALMAR,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SAN JOSE DEL PALMAR,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SAN JOSE DEL PALMAR,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SAN JOSE DEL PALMAR,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SAN JOSE DEL PALMAR,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SIPI,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SIPI,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SIPI,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SIPI,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SIPI,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SIPI,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SIPI,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SIPI,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SIPI,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SIPI,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SIPI,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+SIPI,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+TADO,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+TADO,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+TADO,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+TADO,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+TADO,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+TADO,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+TADO,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+TADO,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+TADO,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+TADO,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+TADO,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+TADO,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNGUIA,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNGUIA,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNGUIA,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNGUIA,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNGUIA,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNGUIA,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNGUIA,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNGUIA,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNGUIA,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNGUIA,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNGUIA,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNGUIA,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNION PANAMERICANA,2026,1,Enero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNION PANAMERICANA,2026,2,Febrero,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNION PANAMERICANA,2026,3,Marzo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNION PANAMERICANA,2026,4,Abril,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNION PANAMERICANA,2026,5,Mayo,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNION PANAMERICANA,2026,6,Junio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNION PANAMERICANA,2026,7,Julio,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNION PANAMERICANA,2026,8,Agosto,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNION PANAMERICANA,2026,9,Septiembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNION PANAMERICANA,2026,10,Octubre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNION PANAMERICANA,2026,11,Noviembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,
+UNION PANAMERICANA,2026,12,Diciembre,,No estimable,Historial insuficiente (<24 meses observados),No estimable,,,

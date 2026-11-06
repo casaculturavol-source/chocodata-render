@@ -1,0 +1,82 @@
+[
+  {
+    "version": "v1.0",
+    "fecha_entrenamiento": "2026-11-06T09:13:02.147181+00:00",
+    "registros_entrenamiento": 666,
+    "variables": [
+      "municipio",
+      "mes_num",
+      "mes_sin",
+      "mes_cos",
+      "anio"
+    ],
+    "algoritmo": "RandomForestRegressor",
+    "configuracion": {
+      "n_estimators": 240,
+      "min_samples_leaf": 2,
+      "max_features": 0.85,
+      "random_state": 42
+    },
+    "metrica_validacion": {
+      "anio": 2025,
+      "exactitud": 0.3333
+    },
+    "archivo": "modelo_v1.0.joblib",
+    "estado": "activo",
+    "municipios_aptos": [
+      "ACANDI",
+      "ATRATO",
+      "BAGADO",
+      "BAHIA SOLANO",
+      "CONDOTO",
+      "EL CARMEN DE ATRATO",
+      "ISTMINA",
+      "JURADO",
+      "NUQUI",
+      "QUIBDO"
+    ],
+    "umbrales": {
+      "ACANDI": [
+        75.99999999999989,
+        193.99999999999994
+      ],
+      "ATRATO": [
+        1.0,
+        2.0
+      ],
+      "BAGADO": [
+        1.0,
+        2.0
+      ],
+      "BAHIA SOLANO": [
+        9.0,
+        18.33333333333332
+      ],
+      "CONDOTO": [
+        1.0,
+        1.9999999999999964
+      ],
+      "EL CARMEN DE ATRATO": [
+        3.0,
+        6.0
+      ],
+      "ISTMINA": [
+        2.0,
+        3.0
+      ],
+      "JURADO": [
+        4.0,
+        6.999999999999993
+      ],
+      "NUQUI": [
+        4.0,
+        8.0
+      ],
+      "QUIBDO": [
+        10.999999999999996,
+        16.0
+      ]
+    },
+    "limite_historico": 2025
+  }
+]
